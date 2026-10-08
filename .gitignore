@@ -1,0 +1,17 @@
+# No participant-level data, derived tables, results or figures are tracked
+data/
+derived/
+results/
+figures/
+cache/
+logs/
+*.parquet
+*.rda
+*.xlsx
+*.zip
+scripts/config_local.py
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
